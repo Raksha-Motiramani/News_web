@@ -1,0 +1,85 @@
+{
+"status":"ok",
+"totalResults":8,
+"articles": [
+{
+    "source":{"id":"bbc-sport","name":"BBC Sport"},
+    "author":"BBC Sport",
+    "title":"Paine inquiry verdict sent 'wrong message'",
+    "description":"Cricket Australia should have handled the investigation into sexually explicit texts sent by Tim Paine to a female colleague differently, admits its chief executive.",
+    "url":"http://www.bbc.co.uk/sport/cricket/59358231",
+    "urlToImage":"https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/8519/production/_121737043_hi072061205.jpg",
+    "publishedAt":"2021-11-20T09:22:27.2646161Z",
+    "content":"Cricket Australia should have handled the investigation into sexually explicit texts sent by Tim Paine to a female colleague differently, says its chief executive Richard Freudenstein.\r\nPaine, 36, sa… [+2082 chars]"
+    },
+    {
+    "source":{"id":"google-news-au","name":"Google News (Australia)"},
+    "author":"Guardian staff reporter",
+    "title":"Cricket Australia admits Tim Paine scandal should have ended captaincy in 2018",
+    "description":"Chairman ‘comfortable’ with keeper staying on as player but captain is ‘held to the highest standards’",
+    "url":"https://amp.theguardian.com/sport/2021/nov/20/cricket-australia-admits-tim-paine-scandal-should-have-ended-captaincy-in-2018",
+    "urlToImage":"https://i.guim.co.uk/img/media/1418d811138d34655db9d97989c60331dd0ff987/0_92_5000_3001/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=88790280bec06656e80741cf5f51162e",
+    "publishedAt":"2021-11-20T08:21:00+00:00",
+    "content":"Cricket Australia has conceded Tim Paine should have been stood down as Australias Test captain when he was first investigated over a text message scandal three years ago, with background checks to n… [+4328 chars]"
+    },
+    {
+    "source":{"id":"abc-news-au","name":"ABC News (AU)"},
+    "author":"ABC News",
+    "title":"Cricket Australia admits it should have disclosed investigation into Tim Paine sexting incident",
+    "description":"Cricket Australia's current leadership team says the organisation made a mistake by not revealing in 2018 it was investigating Time Paine's role in a text-messaging incident with a woman, which has led to his resignation as men's Test captain.",
+    "url":"http://www.abc.net.au/news/2021-11-20/cricket-australia-reacts-to-tim-paine-texting-incident/100637140",
+    "urlToImage":"https://live-production.wcms.abc-cdn.net.au/43eb62be01a9417c5aa366560e1d3943?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=53&width=862&height=485",
+    "publishedAt":"2021-11-20T05:44:50Z",
+    "content":"Cricket Australia (CA) says the organisation made the wrong decision in 2018 not to reveal it was investigating the Tim Paine text-messaging incident, which has led to his resignation as men's Test c… [+726 chars]"
+    },
+    {
+    "source":{"id":"abc-news-au","name":"ABC News (AU)"},
+    "author":"ABC News",
+    "title":"Cricket Australia criticised for management of Tim Paine's sexting incident",
+    "description":"Former players question the governing body's management of the incident, which has led to Tim Paine stepping down as the Australian men's Test captain ahead of the Ashes series.",
+    "url":"http://www.abc.net.au/news/2021-11-20/cricket-australia-criticised-for-handling-of-tim-paine-scandal/100636814",
+    "urlToImage":"https://live-production.wcms.abc-cdn.net.au/a0214fa41a05f430b0d5ca03c6426586?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485",
+    "publishedAt":"2021-11-20T04:44:45Z",
+    "content":"Cricket Australia (CA) has been criticised for its handling of the Tim Paine sexting scandal, with former players saying it highlights the organisation's poor cultural standards.\r\nKey points:\r\n<ul><l… [+5289 chars]"
+    },
+    {
+    "source":{"id":"independent","name":"Independent"},
+    "author":"Isabelle Westbury",
+    "title":"Alex Hales is one name among many – cricket has to focus on more than individuals to create lasting change",
+    "description":"While it is a difficult time to be a proud participant in the game, we needed something of this magnitude to create real impetus",
+    "url":"http://www.independent.co.uk/voices/cricket-racism-alex-hales-tim-paine- b1961055.html",
+    "urlToImage":"https://static.independent.co.uk/2021/07/08/12/c4f66c58721dfcac319a1004ba6bc044Y29udGVudHNlYXJjaGFwaSwxNjI1ODI3ODIx-2.55256840.jpg?width=1200&auto=webp&quality=75",
+    "publishedAt":"2021-11-19T18:56:17Z",
+    "content":"Stories of discrimination, sexism, racism, abuses of power and influence all swirl around the game of cricket daily. The spotlight is now being turned to Alex Hales, not a stranger to controversy, wh… [+5040 chars]"
+    },
+    {
+    "source":{"id":"bbc-sport","name":"BBC Sport"},
+    "author":"BBC Sport",
+    "title":"'Racism forces society to confront issues'",
+    "description":"BBC sports editor Dan Roan discusses the racism scandal in English cricket and how it forces society to confront its most important issues.",
+    "url":"http://www.bbc.co.uk/sport/cricket/59350548",
+    "urlToImage":"https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/5850/production/_121580622_rafiq_pa.jpg",
+    "publishedAt":"2021-11-19T18:52:25.3681981Z",
+    "content":"Emotional Rafiq tells MPs about racism at Yorkshire\r\nEnglish cricket's racism scandal is the latest compelling example of the way sport regularly forces society to confront some of its most important… [+5284 chars]"
+    },
+    {
+    "source":{"id":"espn-cric-info","name":"ESPN Cric Info"},
+    "author":null,
+    "title":"PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+    "description":"Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+    "url":"http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+    "urlToImage":"https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+    "publishedAt":"2020-04-27T11:41:47Z",
+    "content":"Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+    "source":{"id":"espn-cric-info","name":"ESPN Cric Info"},
+    "author":null,
+    "title":"What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+    "description":"Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+    "url":"http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+    "urlToImage":"https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+    "publishedAt":"2020-03-30T15:26:05Z",
+    "content":"Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"}]}
+    
+    
